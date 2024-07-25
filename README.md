@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @kfkokmf
 - 👀 I’m interested in n/a
 - 🌱 I’m currently learning Blender and java script
-- 💞️ I’m looking to collaborate on n/a
-- 📫 How to reach me Email: franciscovmadaleno@gmail.com / discord: kfkokmf#7393
